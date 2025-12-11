@@ -1,15 +1,12 @@
-**Hospital Bed Management Analysis**
-
-◦ Designed and developed an interactive Power BI dashboard to analyze hospital bed utilization, patient
-admissions, and staff distribution.
-◦ Analyzed 110 patient requests and identified capacity constraints with only 56 available beds, improving
-visibility into hospital resource management.
-◦ Evaluated staff allocation by role and service, revealing nursing staff as the primary workforce driver for
-patient care.
-◦ Tracked patient satisfaction scores across ICU, emergency, general medicine, and surgery services to assess
-service performance.
-◦ Identified seasonal admission spikes in December, providing insights for capacity planning and resource
-optimization.
-◦ Translated raw hospital data into actionable insights to support data-driven decision-making by hospital
-management.
-◦ Utilized Power BI for data cleaning, visualization, and KPI tracking
+**Coffee sales Analysis**
+◦ Built an interactive Power BI dashboard to analyze coffee shop sales performance and customer purchasing
+patterns.
+◦ Tracked total revenue of 112.25K across multiple coffee brands, identifying Latte and Americano as top
+revenue generators.
+◦ Analyzed average daily transactions (31.65) and average revenue per day (3.62K) to monitor business growth.
+◦ Evaluated revenue by time of day, revealing consistent sales across morning, afternoon, and night, optimizing
+staffing and marketing strategies.
+◦ Conducted trend analysis by month and year, uncovering seasonal peaks in September 2024 and March 2025
+for strategic inventory planning.
+◦ Used Power BI and Excel for data transformation, visualization, and KPI tracking to support business
+decision-making.
